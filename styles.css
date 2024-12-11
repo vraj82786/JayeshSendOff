@@ -185,7 +185,7 @@ background-blend-mode: overlay, color, overlay, difference, color-dodge, differe
 
 /* Wisher Name with Glass Effect and Flip Animation */
 .wisher {
-    width:10vw;
+    width:80%;
     margin-left:auto;
     margin-right:auto;
     font-size: 1rem;
@@ -196,7 +196,6 @@ background-blend-mode: overlay, color, overlay, difference, color-dodge, differe
     align-content: center;
     opacity:1;
     box-shadow: 0 0 10px rgba(255, 255, 255, 1);
-    width: 300px; /* Match the width of the message box */
     text-align: center; /* Center-align text inside the block */
     transform-style: preserve-3d; /* Retains 3D for nested elements */
     transition: transform 0.5s; /* Smooth transition effect */
