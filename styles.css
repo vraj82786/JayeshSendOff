@@ -187,10 +187,10 @@ background-blend-mode: overlay, color, overlay, difference, color-dodge, differe
 
 /* Wisher Name with Glass Effect and Flip Animation */
 .wisher {
-    width:90%;
-    height:3vh;
-    margin-left:2.9rem;
-    margin-right:1rem;
+    width:10rem;
+    height:1rem;
+    margin-left:auto;
+    margin-right:auto;
     font-size: 1rem;
     padding: 10px;
     border-radius: 5px;
