@@ -146,7 +146,7 @@ background-blend-mode: overlay, color, overlay, difference, color-dodge, differe
 
 /* Slider Message */
 .slider-message {
-    width: 90vw;
+    width:100%;
     height: auto;
     font-size:1rem;
     padding: 10px; /* Adjust dynamically based on text */
@@ -154,9 +154,7 @@ background-blend-mode: overlay, color, overlay, difference, color-dodge, differe
     border-radius: 10px;
     text-align: center;
     display: flex;
-    align-items: center; /* Center text vertically */
-    justify-content: center; /* Center text horizontally */
-    overflow: hidden;
+    /*overflow: hidden;*/
     transition: opacity 0.5s ease-in-out;
     opacity: 1;
     backdrop-filter: blur(10px); /* Blur effect */
