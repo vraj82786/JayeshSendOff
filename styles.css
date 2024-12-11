@@ -47,7 +47,7 @@ body {
 }
 
 h1 {
-    font-size: 2.3rem;
+    font-size: 2.2rem;
     margin: 5px 7px 10px 7px;
     background: linear-gradient(90deg,#00c6ff,#0072ff);
     -webkit-background-clip: text;
@@ -139,15 +139,16 @@ background-blend-mode: overlay, color, overlay, difference, color-dodge, differe
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 30px;
+    margin-top: 10px;
     gap: 20px;
+    font-size:1rem;
 }
 
 /* Slider Message */
 .slider-message {
     width: 80vw; /* Fixed width */
     height: 20vh; /* Fixed height */
-    font-size:1rem;
+    font-size:0.5rem;
     padding: 10px; /* Adjust dynamically based on text */
     color: white;
     border-radius: 10px;
@@ -158,17 +159,14 @@ background-blend-mode: overlay, color, overlay, difference, color-dodge, differe
     overflow: hidden;
     transition: opacity 0.5s ease-in-out;
     opacity: 1;
-    word-wrap:word-break;
-    word-break: break-word;
+    /*word-wrap:word-break;*/
+    /*word-break: break-word;*/
     backdrop-filter: blur(10px); /* Blur effect */
     -webkit-backdrop-filter: blur(10px); /* Blur effect for Safari */
     border: 1px solid rgba(255, 255, 255, 1); /* Light border */
     border-radius: 15px; /* Rounded corners for a sleek look */
     background-blend-mode:overlay;
-    justify-content: Center;
-    
 }
-
 .slider-btn {
     font-size: 2rem;
     border-radius: 50%;
@@ -192,19 +190,19 @@ background-blend-mode: overlay, color, overlay, difference, color-dodge, differe
 /* Wisher Name with Glass Effect and Flip Animation */
 .wisher {
     width:90%;
-    height:10%;
-    font-size: 1.2rem;
-    /*margin-top: 20px;*/
+    height:3vh;
+    margin-left:2.9rem;
+    margin-right:1rem;
+    font-size: 1rem;
     padding: 10px;
     border-radius: 5px;
     opacity:1;
     box-shadow: 0 0 10px rgba(255, 255, 255, 1);
     width: 300px; /* Match the width of the message box */
     text-align: center; /* Center-align text inside the block */
-    margin-left: auto; /* Center horizontally */
-    margin-right: auto; /* Center horizontally */
     transform-style: preserve-3d; /* Retains 3D for nested elements */
     transition: transform 0.5s; /* Smooth transition effect */
+
 }
 .wisher.FlipRotate {
   animation: 1s FlipRotate ease-out;
