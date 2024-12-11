@@ -146,9 +146,7 @@ background-blend-mode: overlay, color, overlay, difference, color-dodge, differe
 
 /* Slider Message */
 .slider-message {
-    width: 80vw; /* Fixed width */
-    height: 20vh; /* Fixed height */
-    font-size:0.5rem;
+    font-size:1rem;
     padding: 10px; /* Adjust dynamically based on text */
     color: white;
     border-radius: 10px;
