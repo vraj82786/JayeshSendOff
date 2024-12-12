@@ -1,41 +1,29 @@
 // List of wishes
 const messages = [
-    " It was great to have jayesh in team,Thank you for all the hard work and the positive energy you brought to the team, Wishing him best for future ... ",
-    " As you embark on this new journey, we want to extend our best wishes to you. Your contributions and dedication have been invaluable to our team, and you will be greatly missed.",
-    " Jayesh Bhai, Always keep rocking & shocking the World with your achievements !, we had very good time and lots of memories ... evergreen memory was ' Chal bhagte hai ' ",
-    " Your departure is a loss for us, may your next role challenge and inspire you as much as you've inspired us. I will miss our small fights during change preparation and codegame memories and your strict nature.. all the very best ...",
-    " Dilya ghari sukhi raha 😊 !! ",
+    " It was great to have Jayesh in team,Thank you for all the hard work and the positive energy you brought to the team, Wishing him best for future ... ! ",
+    " As you embark on this new journey, we want to extend our best wishes to you. Your contributions and dedication have been invaluable to our team, and you will be greatly missed !",
+    " Jayesh Bhai, Always keep rocking & Thrill this World with your achievements !, we had very good time and lots of memories ... evergreen memory was ' Chal bhagte hai ' ! ",
+    " Your departure is a loss for us, may your next role challenge and inspire you as much as you've inspired us. I will miss our small fights during change preparation and co3degame memories and your strict nature.. all the very best ! ",
+    " Sometimes we were part of the same team, It was great when working with you. thanks to guide me in the initial stage, I know you hate CFT part but it is actually easy yarr 😜... ahh Ohhk late it be. Wishing you on your new adventure !! ",
+    " Dilya ghari sukhi raha 😊 Jayesh : The Big Brother of IVVCAPUNIX ! ",
+    " go-to-help out always , but naak ke upar gussa thoda kam rakha karo yaar !🤭 "
     " BONVOYAGE ",
-    " Best of Luck Jayesh, Apna MSCI 😉 will miss you ... ",
-    " Adventure awaits—make the most of it!",
-    " Stay positive and keep striving for greatness!",
-    " This is just the beginning of your amazing story!",
-    " Keep chasing your dreams—they're within reach!",
-    " Believe in yourself, and you’ll achieve wonders!",
-    " The future is bright, and it's all yours to explore!",
-    " Keep it up Jayesh ! we wish more success for you ",
-    " Jayesh was always ready to help !, wish him best luck for future " ,
-    " " 
+    " 1) naseeb me hoga to phir milnege...switch karte karte "
+    " 2) jaha bhi raho  khush raho -CG ke sath bhi CG  ke bad bhi... "
+    " 3) Keep pressing Ctrl+S ! Needless to say, Let’s keep in touch ! "
 ];
 
 // List of wishers
 const wishers = [
     " Anup Sir ",
     " Deepti ",
-    " Varun  ",
+    " Varun ",
     " Shreya ",
+    " Mayuri Nikam ",
     " Sunny ",
+    " Rashmi ",
     " Gavin ",
-    " Ritesh",
-    " Bhavya ",
-    " Sudheer ",
-    " Rashid ",
-    " Rashmi",
-    " Shraddha ",
-    " Komal",
-    " Piyush",
-    " Dhanashri",
-    " Manasa"
+    " From Shreya's Creativity "
 ];
 
 // Get DOM elements
