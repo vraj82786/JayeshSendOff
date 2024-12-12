@@ -6,10 +6,10 @@ const messages = [
     " Your departure is a loss for us, may your next role challenge and inspire you as much as you've inspired us. I will miss our small fights during change preparation and co3degame memories and your strict nature.. all the very best ! ",
     " Sometimes we were part of the same team, It was great when working with you. thanks to guide me in the initial stage, I know you hate CFT part but it is actually easy yarr 😜... ahh Ohhk late it be. Wishing you on your new adventure !! ",
     " Dilya ghari sukhi raha 😊 Jayesh : The Big Brother of IVVCAPUNIX ! ",
-    " go-to-help out always , but naak ke upar gussa thoda kam rakha karo yaar !🤭 "
+    " go-to-help out always , but naak ke upar gussa thoda kam rakha karo yaar !🤭 ",
     " BONVOYAGE ",
-    " 1) naseeb me hoga to phir milnege...switch karte karte "
-    " 2) jaha bhi raho  khush raho -CG ke sath bhi CG  ke bad bhi... "
+    " 1) naseeb me hoga to phir milnege...switch karte karte ",
+    " 2) jaha bhi raho  khush raho -CG ke sath bhi CG  ke bad bhi... ",
     " 3) Keep pressing Ctrl+S ! Needless to say, Let’s keep in touch ! "
 ];
 
